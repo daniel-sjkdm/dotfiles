@@ -1,0 +1,16 @@
+window:
+    dimensions:
+        columns: 600
+        lines: 600
+    title: "Shree Narasimha"
+
+font:
+    normal:
+        family: "Fira Code"
+    size: 10.0
+
+shell:
+    program: /bin/zsh
+
+cursor:
+    style: Underline
